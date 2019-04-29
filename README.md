@@ -3,4 +3,8 @@
 
 Fichier Json accessible l'url : 
 
-https://yswane.github.io/ComJson.json
+Toutes les questions : 
+https://yswane.github.io/All.json
+
+Réponse par ID :
+https://yswane.github.io/id/1.json
