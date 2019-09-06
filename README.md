@@ -10,3 +10,10 @@ https://yswane.github.io/all.json
 
 Réponse par ID :
 https://yswane.github.io/id/1.json
+
+
+*****************************************************
+
+Fichier Json regroupant 198 pays accessible via l'url :
+https://yswane.github.io/country.json
+
